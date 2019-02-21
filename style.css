@@ -8,3 +8,29 @@
  Version:      1.0.0
  Text Domain:  twenty-sixteen-child
 */
+
+
+.site-main.front-page {
+    color: red;
+}
+
+.page-template-template-team-page {
+    background-color: green;
+    color: blue;
+}
+
+.home {
+    background-color: red;
+}
+
+.site-main.front-page a {
+    color: red;
+}
+
+body.home .site-main, .front-page-h1 {
+    color: red;
+}
+
+.societies-template-default {
+    background-color: yellow;
+}
